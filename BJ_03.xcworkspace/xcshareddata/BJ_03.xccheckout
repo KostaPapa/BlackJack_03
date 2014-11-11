@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>192F576A-A0B7-4B55-AEA6-AAD766A4E8C3</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>22D199C7B13AF0AF35DCA712BD2542633434903D</key>
+		<string>https://github.com/KostaPapa/HW02BlackJack.git</string>
+	</dict>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>22D199C7B13AF0AF35DCA712BD2542633434903D</key>
+		<string>HW02BlackJack/</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/KostaPapa/HW02BlackJack.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>22D199C7B13AF0AF35DCA712BD2542633434903D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>22D199C7B13AF0AF35DCA712BD2542633434903D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HW02BlackJack</string>
+		</dict>
+	</array>
+</dict>
+</plist>
